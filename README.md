@@ -28,16 +28,18 @@ To compile and run this project, you need a C compiler installed on your system.
 ## How to Compile
 Open your terminal (ensure it is pointed to the directory containing the source files) and run the following command to link and compile the program:
 
-```bash
+```On Windows:
 gcc main.c library_functions.c -o library_app
 
-
+```
 ## How to Run
 After successful compilation, start the application by running the generated executable:
 
-On Windows:
+```On Windows:
 
 .\library_app.exe
+
+```
 
 ## Usage Instructions
 Upon launching, the system will attempt to load existing data from library.dat.
@@ -51,8 +53,8 @@ Important: Always select option 6 (Save Data to File) before exiting to ensure y
 Select option 0 to safely terminate the program.
 
 
-Author: Group 2 (Gasigwa, Prince, Kevine, Gaby, Fred)
-Institution: Mount Kigali University, Computer Science
-Date: 11 March 2026
+## Author 
+
+Github: gaesigua
 
 
